@@ -77,7 +77,7 @@ Web界面包括以下内容：
 
 页面截图：
 
-![Web界面截图](static\images\image.png)
+![Web界面截图](static/images/image.png)
 
 ### 输出结果
 
