@@ -112,6 +112,10 @@ AI看线/
     └── *_analysis_result.txt # 分析结果文件
 ```
 
+## 交流学习
+
+![加群](static/images/yzbjs1.png)
+
 ## 注意事项
 
 - 本工具仅供学习和研究使用，不构成任何投资建议
